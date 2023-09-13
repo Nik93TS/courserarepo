@@ -1,3 +1,3 @@
 # courserarepo
-##First repo to store Coursera stuff
+## First repo to store Coursera stuff
 It's a markdown file in this repository
